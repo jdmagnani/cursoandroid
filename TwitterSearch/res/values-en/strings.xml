@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Twitter Search</string>
+    <string name="buscar">Search</string>
+    <string name="aviso">You was mentioned!</string>
+    <string name="titulo">mentioned you!</string>
+</resources>
