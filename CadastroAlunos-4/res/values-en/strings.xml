@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Students</string>
+    <string name="nome">Name:</string>
+    <string name="site">Web Site:</string>
+    <string name="endereco">Address:</string>
+    <string name="telefone">Phone:</string>
+    <string name="nota">Avaliation:</string>
+    <string name="gravar">Save</string>
+</resources>

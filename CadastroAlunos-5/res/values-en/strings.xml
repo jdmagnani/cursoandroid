@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Students</string>
+    <string name="nome">Name:</string>
+    <string name="site">Web Site:</string>
+    <string name="endereco">Address:</string>
+    <string name="telefone">Phone:</string>
+    <string name="nota">Avaliation:</string>
+    <string name="gravar">Save</string>
+    <string name="detalhesprova">Test Details</string>
+    <string name="materia">Subject Details</string>
+    <string name="dataprova">Date</string>
+</resources>

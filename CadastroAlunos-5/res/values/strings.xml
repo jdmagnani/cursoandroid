@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alunos</string>
+    <string name="nome">Nome:</string>
+    <string name="site">Site:</string>
+    <string name="endereco">Endereço:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="nota">Nota:</string>
+    <string name="gravar">Gravar</string>
+    <string name="detalhesprova">Detalhes da Prova</string>
+    <string name="materia">Tópicos da Prova</string>
+    <string name="dataprova">Data da Prova</string>
+    <string name="title_activity_mostra_alunos_proximos">MostraAlunosProximosActivity</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
